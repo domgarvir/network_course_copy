@@ -10,6 +10,8 @@ import itertools
 import random as rnd
 from scipy.optimize import curve_fit,  fsolve
 from scipy.stats import mvn
+from IPython.display import display, Markdown
+from pathlib import Path
 
 # Suppress FutureWarning messages
 import warnings
@@ -1000,3 +1002,8 @@ def Omega_function(alpha):
     
     out = np.log10(d)
     return out
+
+def load_code(path):
+    code = Path(path).read_text()
+    display(Markdown(f"```python\n{code}\n```"))
+

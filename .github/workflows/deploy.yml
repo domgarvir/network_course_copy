@@ -18,9 +18,9 @@ jobs:
 
       - name: Install JupyterLite with Pyodide kernel
         run: |
-          pip install jupyterlite-core jupyterlite-pyodide-kernel
+          pip install jupyterlite-core jupyterlite-pyodide-kernel jupyter-server jupyterlab_server
 
-      - name: Build JupyterLite site (with kernel)
+      - name: Build JupyterLite site (with kernel + contents)
         run: |
           jupyter lite build --contents ./ --output-dir dist
 

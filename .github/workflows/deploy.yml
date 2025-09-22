@@ -2,7 +2,7 @@ name: Deploy JupyterLite site
 
 on:
   push:
-    branches: [ main ]   # change if your default branch is "master"
+    branches: [ main ]
 
 jobs:
   build:
@@ -22,10 +22,11 @@ jobs:
 
       - name: Build JupyterLite site
         run: |
-          jupyter lite build --output-dir dist
+          jupyter lite build --contents ./ --output-dir dist
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
+          force_orphan: true

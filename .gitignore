@@ -1,4 +1,4 @@
-.*
+.git/
 _*
 
 # Dont ignore .gitignore (this file)

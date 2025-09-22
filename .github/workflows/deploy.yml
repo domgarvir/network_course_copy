@@ -16,13 +16,13 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install JupyterLite
+      - name: Install JupyterLite with Pyodide kernel
         run: |
-          pip install jupyterlite[all]
+          pip install jupyterlite-core jupyterlite-pyodide-kernel
 
-      - name: Build JupyterLite site
+      - name: Build JupyterLite site (with kernel)
         run: |
-          jupyter lite build --contents ./ --output-dir dist
+          jupyter lite build --contents ./ --output-dir dist --pyodide
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3

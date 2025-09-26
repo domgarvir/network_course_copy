@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-09-26T05:45:16.294283Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-26T05:45:01.880148Z",
+      "mimetype": "text/csv",
+      "name": "product_codes.csv",
+      "path": "data/Projects/TRADE/product_codes.csv",
+      "size": 573486,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-09-26T05:45:16.293283Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-26T05:45:01.878148Z",
+      "mimetype": "text/csv",
+      "name": "country_codes.csv",
+      "path": "data/Projects/TRADE/country_codes.csv",
+      "size": 5346,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-09-26T05:45:16.293283Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-26T05:45:01.878148Z",
+      "mimetype": "text/plain",
+      "name": "Readme.txt",
+      "path": "data/Projects/TRADE/Readme.txt",
+      "size": 571,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-09-26T05:45:16.293283Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-09-26T05:45:16.293283Z",
+  "mimetype": null,
+  "name": "TRADE",
+  "path": "data/Projects/TRADE",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

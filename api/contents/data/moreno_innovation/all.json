@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-09-26T05:45:16.340283Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-26T05:45:01.899148Z",
+      "mimetype": null,
+      "name": "README.moreno_innovation",
+      "path": "data/moreno_innovation/README.moreno_innovation",
+      "size": 2383,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-09-26T05:45:16.341283Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-26T05:45:01.899148Z",
+      "mimetype": null,
+      "name": "out.moreno_innovation_innovation",
+      "path": "data/moreno_innovation/out.moreno_innovation_innovation",
+      "size": 7752,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-09-26T05:45:16.341283Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-26T05:45:01.899148Z",
+      "mimetype": null,
+      "name": "meta.moreno_innovation_innovation",
+      "path": "data/moreno_innovation/meta.moreno_innovation_innovation",
+      "size": 750,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-09-26T05:45:16.341283Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-09-26T05:45:16.341283Z",
+  "mimetype": null,
+  "name": "moreno_innovation",
+  "path": "data/moreno_innovation",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

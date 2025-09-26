@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-09-26T05:45:16.270283Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-26T05:45:01.867148Z",
+      "mimetype": "text/csv",
+      "name": "references.csv",
+      "path": "data/Projects/MUTUALISTIC/web-of-life_2025-09-21_202324/references.csv",
+      "size": 3613,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-09-26T05:45:16.269283Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-26T05:45:01.867148Z",
+      "mimetype": null,
+      "name": "README",
+      "path": "data/Projects/MUTUALISTIC/web-of-life_2025-09-21_202324/README",
+      "size": 2516,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-09-26T05:45:16.270283Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-09-26T05:45:16.270283Z",
+  "mimetype": null,
+  "name": "web-of-life_2025-09-21_202324",
+  "path": "data/Projects/MUTUALISTIC/web-of-life_2025-09-21_202324",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

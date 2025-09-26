@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-09-26T05:45:16.184283Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-26T05:45:01.861148Z",
+      "mimetype": "text/csv",
+      "name": "passengers.csv",
+      "path": "data/Projects/FLIGHTS/passengers.csv",
+      "size": 36103714,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-09-26T05:45:16.159283Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-26T05:45:01.764148Z",
+      "mimetype": "text/plain",
+      "name": "GlobalAirportDatabase.txt",
+      "path": "data/Projects/FLIGHTS/GlobalAirportDatabase.txt",
+      "size": 760067,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-09-26T05:45:16.161283Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-09-26T05:45:16.161283Z",
+  "mimetype": null,
+  "name": "FLIGHTS",
+  "path": "data/Projects/FLIGHTS",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

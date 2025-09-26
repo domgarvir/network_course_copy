@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-09-26T05:45:16.159283Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-26T05:45:01.761147Z",
+      "mimetype": "text/csv",
+      "name": "pre-ontology.csv",
+      "path": "data/LotR_tables/ontologies/pre-ontology.csv",
+      "size": 3417,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-09-26T05:45:16.158283Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-26T05:45:01.761147Z",
+      "mimetype": "text/csv",
+      "name": "ontology.csv",
+      "path": "data/LotR_tables/ontologies/ontology.csv",
+      "size": 2285,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-09-26T05:45:16.158283Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-09-26T05:45:16.158283Z",
+  "mimetype": null,
+  "name": "ontologies",
+  "path": "data/LotR_tables/ontologies",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

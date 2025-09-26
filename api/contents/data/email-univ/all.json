@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-09-26T05:45:16.306283Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-26T05:45:01.882148Z",
+      "mimetype": null,
+      "name": "email-univ.edges",
+      "path": "data/email-univ/email-univ.edges",
+      "size": 41802,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-09-26T05:45:16.306283Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-09-26T05:45:01.882148Z",
+      "mimetype": "text/html",
+      "name": "readme.html",
+      "path": "data/email-univ/readme.html",
+      "size": 1644,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-09-26T05:45:16.306283Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-09-26T05:45:16.306283Z",
+  "mimetype": null,
+  "name": "email-univ",
+  "path": "data/email-univ",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

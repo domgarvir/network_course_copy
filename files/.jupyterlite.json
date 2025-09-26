@@ -1,0 +1,6 @@
+{
+  "jupyterlite": {
+    "contents": "./",
+    "outputDir": "dist"
+  }
+}
